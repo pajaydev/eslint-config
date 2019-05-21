@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-ajay",
   "version": "1.0.0",
-  "description": "",
+  "description": "my own eslint configuration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint index.js lib"
   },
   "author": "Ajaykumar Prathap",
   "license": "ISC",

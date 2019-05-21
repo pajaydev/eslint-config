@@ -4,5 +4,4 @@ module.exports = {
         './lib/stylistic.js'
     ],
     rules: {}
-
 };
