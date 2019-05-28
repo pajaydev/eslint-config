@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ajay",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "my own eslint configuration",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,14 @@
   },
   "author": "Ajaykumar Prathap",
   "license": "ISC",
+  "keywords": [
+    "sharable-config",
+    "eslintconfig",
+    "eslint ajay",
+    "lint",
+    "code style",
+    "validate"
+  ],
   "dependencies": {
     "eslint": "^5.16.0"
   },
