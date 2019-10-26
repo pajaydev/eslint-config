@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ajay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "my own eslint configuration",
   "main": "index.js",
   "scripts": {
