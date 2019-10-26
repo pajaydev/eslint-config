@@ -1,4 +1,4 @@
-# eslint-config-ebay
+# eslint-config-ajay
 eslint configuration for all my projects.
 
 ## Want to try it out ?.
