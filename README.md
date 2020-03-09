@@ -1,17 +1,28 @@
 # eslint-config-ajay
-eslint configuration for all my projects.
+Eslint configuration for all my projects. Free feel to use it
 
-## Want to try it out ?.
+## Installation
 
-```bash
-npm install --save-dev eslint-config-ajay
+Install eslint and eslint-ajay
+
+```
+npm i -D eslint eslint-config-ajay
 ```
 
-You can extend it in `.eslintrc`
-```json
+Add the below lines in your `package.json`:
+
+````
 {
-    "extends": [
-        "eslint-config-ajay"
-    ]
+  "eslintConfig": {
+    "extends": "eslint-config-ajay"
+  }
 }
-```
+````
+## Issues
+
+Feel feel to create issue for any improvements.
+
+
+
+
+

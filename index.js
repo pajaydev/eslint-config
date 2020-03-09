@@ -4,8 +4,8 @@ module.exports = {
         './lib/stylistic.js'
     ],
     parserOptions: {
-        "ecmaVersion": 2018,
-        "sourceType": "module"
+        'ecmaVersion': 2018,
+        'sourceType': 'module'
     },
     rules: {},
     env: {
